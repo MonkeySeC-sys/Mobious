@@ -26,9 +26,10 @@ Execute the following commands in your terminal to clone the repository and conf
 
 ```bash
 # Clone the repository
-git clone https://github.com
+git clone https://github.com/MonkeySeC-sys/Mobious.git
 
 # Configure executable permissions and run the installation script
+cd Mobious
 chmod +x mobious.py
 
 
