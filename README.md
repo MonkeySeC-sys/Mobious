@@ -33,4 +33,3 @@ cd Mobious
 chmod +x mobious.py
 
 
-Please submit bug reports and architecture-specific feedback via the GitHub Issues portal.
